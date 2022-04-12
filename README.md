@@ -17,6 +17,7 @@ Now all content from the source file should be added to the  target file, with a
 - [ ] Make path handling better (aka not only linux paths)
 - [ ] Figure out a way to make changes in the target file cary over to the source files
 - [ ] Add optionality for running the crawler on file changes
+- [ ] Allow imports with the file ending .md in them
 
 ## Contributing
 
