@@ -20,4 +20,4 @@ Now all content from the source file should be added to the  target file, with a
 
 ## Contributing
 
-If you would want to contribute to this project I would be happy to help you. 
+If you would want to contribute to this project I would be happy to help you. The easiest way to come in contact with me is by using the repositorys [discussion](https://github.com/JosefUtbult/obsidian-import-crawler/discussions) functionality.
